@@ -40,3 +40,4 @@ exclude_paths:
 - db/
 - spec/
 - vendor/
+- "app/assets/stylesheets/spectre.css"
