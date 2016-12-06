@@ -37,6 +37,7 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'launchy'
   gem 'simplecov'
+  gem "codeclimate-test-reporter", "~> 1.0.0"
   gem 'faker'
   gem 'fabrication'
   gem 'byebug', platform: :mri
